@@ -116,11 +116,11 @@ interface StudentManage {
 ```
 
 ## 实验过程问题
-   在字符串判断时，“==”运算符无法对字符串的值进行判断。搜索资料，发现equals可以进行String的值的比较（原因是，String对equals进行重写，使之进行值的比较，在其他数据类型中，如果没有对equals进行重写，==与eauals的效果是等同的。
+ 
 ## 实验结果
-![实验结果截图](fee7b4ababdfd6dd62fe48f290133fc)
+![实验结果截图](fee7b4ababdfd6dd62fe48f290133fc.png)
 ---
-![实验结果截图](0b55145e912daa2b66d2073e5fa9e8a)
+![实验结果截图](0b55145e912daa2b66d2073e5fa9e8a.png)
 ---
 
 ## 实验感想
